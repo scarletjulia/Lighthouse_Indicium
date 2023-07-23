@@ -91,7 +91,7 @@ Os dados parecem descrever uma variedade de veículos, desde os mais antigos at�
    - Em média, o ano do modelo é aproximadamente 2017,8.
    - Metade dos veículos têm 2018 como ano do modelo.
 
-4. **hodometro**:
+4. **hodômetro**:
    - A quilometragem varia de apenas 100 km a 381.728 km.
    - A mediana da quilometragem é de 56.742 km.
    - Em média, os veículos rodaram aproximadamente 58.237 km.
